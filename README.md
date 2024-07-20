@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swapnil-M1D62Y402
-- 👀 I’m interested in ... Ethical Hacking and building and learning about AI models 
+- 👀 I’m interested in ML and developing DL models and backend development with MERN Stack 
 - 🌱 I’m currently learning: Ethical Hacking, Artificial Intelligence/ Machine Learning, Data structure and Algorithm, Web Development
 - 💞️ I’m looking to collaborate on: small projects regarding 
 - 📫 How to reach me : swapnil.chaki@gmail.com
