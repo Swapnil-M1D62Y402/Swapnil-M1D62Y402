@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Swapnil-M1D62Y402
 
 
-- 💞️ I’m looking to collaborate on: small projects regarding 
+![Firefly Generate a simplistic and minimalistic profile picture for Github  It should contain element](https://github.com/user-attachments/assets/1a05306f-f6ae-409e-be63-35f6bca5552d)
+
+
+- 💞️ I’m looking to collaborate on: small projects regarding ML and Backend Development
 - 📫 How to reach me : swapnil.chaki@gmail.com
 
 
