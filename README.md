@@ -1,12 +1,6 @@
-Here is a **concise, professional, research-oriented GitHub README** — minimal, focused, and technically strong.
+# Swapnil Chaki 
 
-You can directly paste this into `README.md`.
-
----
-
-# [Your Name]
-
-B.Tech Computer Science Student
+3rd Year B.Tech Computer Science Student at Heritage Institute of Technology Kolkata, India 
 Machine Learning & Natural Language Processing
 
 ---
@@ -22,6 +16,11 @@ I am particularly interested in building reliable, scalable, and production-read
 ## Technical Skills
 
 **Languages:** Python, SQL, Basic Java
+
+## Research 
+**Lung Disease Detection (Deep Learning)**
+Built multi-class medical image classifiers using transfer learning with EfficientNet and MobileNet.
+
 
 **Machine Learning:**
 
