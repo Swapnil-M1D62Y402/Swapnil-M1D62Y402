@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Swapnil Chaki</h1>
-<h3 align="center">A passionate ML and backend developer, currently 2nd Year CSE UG in Heritage Institute of India</h3>
+<h3 align="center">A passionate ML and backend developer, currently 3rd Year CSE UG in Heritage Institute of India</h3>
 
 - 👀 I’m interested in ML and developing DL models and backend development with MERN Stack 
 
